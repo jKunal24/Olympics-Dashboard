@@ -4,7 +4,7 @@ Power BI dashboard that pulls ongoing olympics and  historical data from kaggle 
 ** Visualizations, Widgets & Tools Used : 
 Bar Charts, Share Map, Cards, Tile Slicer, Donut Charts, Text Filter (for search functionality), Page Navigator Button & Bookmarks (to create navigators).
 
-**DAX used to create measures in order to get :
+** DAX used to create measures in order to get :
 medal count (based on medallist country/Age group/medal type/athlete gender),No. of participating Nations,Teams, Athletes and Key tournament highlights.
 
 ** Pandas and python File Handling to fetch data from Kaggle.
