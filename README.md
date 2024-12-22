@@ -1,6 +1,9 @@
 # Olympics-Dashboard
 Power BI dashboard that pulls ongoing olympics and  historical data from kaggle using a Python Script and shows real time insights into performance of Athletes and Countries for all events.
 
+** Datasets : https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games - 2024 Paris Olympics 
+              https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018   - 1896 - 2020 Olympics Data
+
 ** Visualizations, Widgets & Tools Used : 
 Bar Charts, Share Map, Cards, Tile Slicer, Donut Charts, Text Filter (for search functionality), Page Navigator Button & Bookmarks (to create navigators).
 
